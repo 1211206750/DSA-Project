@@ -1,0 +1,50 @@
+1,Margherita,25
+2,Pepperoni,28
+3,Four Cheese,30
+4,Hawaiian,27
+5,BBQ Chicken,32
+6,Veggie,26
+7,Meat Lover's,35
+8,Supreme,34
+9,Buffalo Chicken,32
+10,White Pizza,30
+11,Spinach and Artichoke,30
+12,Pesto Chicken,33
+13,Bacon Cheeseburger,32
+14,Mediterranean,30
+15,Mexican,29
+16,Seafood,35
+17,Breakfast,26
+18,Sausage and Peppers,29
+19,Spinach and Feta,28
+20,Caprese,25
+21,Pulled Pork,30
+22,Greek,28
+23,Philly Cheesesteak,31
+24,Prosciutto and Arugula,33
+25,Buffalo Veggie,29
+26,Chicken Alfredo,30
+27,Taco,26
+28,Zucchini and Goat Cheese,33
+29,Spicy Italian,28
+30,Fig and Prosciutto,33
+31,Potato and Rosemary,27
+32,Eggplant Parmesan,30
+33,Truffle Mushroom,35
+34,Chicken Bacon Ranch,32
+35,Pear and Gorgonzola,33
+36,Sausage and Kale,28
+37,Chicken Pesto,30
+38,Roasted Garlic and Tomato,27
+39,Chicken Caesar,30
+40,Butternut Squash and Sage,33
+41,Spicy Shrimp,32
+42,Mushroom and Truffle Oil,35
+43,Bacon and Spinach,30
+44,Pear and Blue Cheese,33
+45,Chorizo and Jalapeno,29
+46,Caramelized Onion and Goat Cheese,31
+47,BBQ Pulled Chicken Pizza,32
+48,Prosciutto and Melon,33
+50,Pizza haha,35
+51,Pizza Hut Hut,25
